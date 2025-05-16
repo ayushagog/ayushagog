@@ -6,7 +6,7 @@ I’m passionate about full-stack development and currently honing my skills in 
 
 🔭 I’m currently working on:
 - Responsive websites with animated form validations
-- Personal projects to practice React and Node.js
+- Personal projects to practice React,Next.js and Node.js
 
 🌱 I’m learning:
 - REST APIs with Express.js
